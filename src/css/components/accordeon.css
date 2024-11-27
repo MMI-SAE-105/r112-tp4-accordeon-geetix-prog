@@ -20,3 +20,7 @@ details>summary{
     left: 0;
 }
 
+details>div{
+    padding-left: 130px;
+    width: 170px;
+}
