@@ -16,10 +16,6 @@ details[open] {
     width: 300px;
 }
 
-details:hover{
-    transition: width 0.5s ease-in-out;
-}
-
 details>summary{
     display: flex;
     position: absolute;
