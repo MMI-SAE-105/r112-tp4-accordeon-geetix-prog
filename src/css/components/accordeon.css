@@ -1,6 +1,6 @@
-/**
-
+/*
 CSS fonctionnel correspondant à la première vidéo
+*/
 
 .accordeon{
     display: flex;
@@ -31,4 +31,3 @@ details>div{
     padding-left: 130px;
     width: 170px;
 }
-*/
