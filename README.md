@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Guellati
+- prénom : Mathis
+- URL Netlify : https://aquamarine-kitsune-461b8f.netlify.app
 
 # Travail
 
@@ -19,6 +19,7 @@ details {
 
 details[open] {
 /* ouvert */
+/* change la largeur max du contenu des accordéons */
 }
 ```
 
