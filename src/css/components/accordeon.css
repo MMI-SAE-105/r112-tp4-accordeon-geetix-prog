@@ -1,6 +1,6 @@
 /**
-* Accordeon
-*/
+
+CSS fonctionnel correspondant à la première vidéo
 
 .accordeon{
     display: flex;
@@ -9,6 +9,7 @@
 details{
     position: relative;
     width: 130px;
+    transition: width 0.5s ease-in-out;
 }
 
 details[open] {
@@ -30,3 +31,4 @@ details>div{
     padding-left: 130px;
     width: 170px;
 }
+*/
