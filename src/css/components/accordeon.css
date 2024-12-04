@@ -27,3 +27,63 @@ details>div{
     padding-left: 130px;
     width: 170px;
 }
+
+/*
+CSS correspondant à la deuxième vidéo
+
+
+details{
+    background: rgb(205, 205, 205);
+    width: 200px;
+    border-radius: 10px;
+    padding: 10px;
+    overflow: hidden;
+    transition: height 0.3s ease;
+}
+
+summary{
+    right: 20px;
+    list-style-type: none; 
+}
+
+summary::after {
+    content: '\25B6';
+    margin-left: auto;
+    font-size: 24px;
+    transition: transform 0.5s ease, color 0.3s ease;;
+    animation: none;
+    transform-origin: center;
+    display: inline-block;
+    opacity: 25%;
+}
+
+
+details[open] summary::after {
+    content: '\25BC';
+    color: red;
+    animation: rotate 0.2s linear;
+}
+
+details:not([open]) summary::after {
+    animation: rotate_sortie 0.2s linear;
+}
+
+@keyframes rotate {
+    from {
+      transform: rotate(-90deg);
+    }
+    to {
+      transform: rotate(0deg);
+    }
+}
+
+@keyframes rotate_sortie{
+    from {
+        transform: rotate(90deg);
+      }
+      to {
+        transform: rotate(0deg);
+      }
+}
+
+*/
